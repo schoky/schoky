@@ -1,9 +1,10 @@
-### Hi there 👋
+## Hello, I'm Daniel 👋
 
-<!--
-**schoky/schoky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+***⚡ My skills:***
+| `Python` | `c++` | `Django` | `OOP` | `SQL` | `PostgreSQL` | `HTML5` | `CSS3` | `BEM` | `Sass` | `Git` | `Postman` | `Figma` | `Adobe Photoshop` | `Docker` | `JavaScript` | `NodeJS` | `Express` | `ReactJs` | |`TypeScript` | 
 
-Here are some ideas to get you started:
+
+<!--Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
