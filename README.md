@@ -1,7 +1,7 @@
-## Hello, I'm Daniel 👋
+# Hello, I'm Daniel 👋
 
 ***⚡ My skills:***
-| `Python` | `C#` | `C++` | `Unity` | `Django` | `OOP` | `SQL` | `PostgreSQL` | `HTML5` | `CSS3` | `BEM` | `Sass` | `Git` | `Postman` | `Figma` | `Adobe Photoshop` | `Docker` | `JavaScript` | `Node` | `Express` | `React`  | `TypeScript` | 
+| `React` | `JavaScript` | `TypeScript` | `Node` | `OOP` | `SQL` | `PostgreSQL` | `HTML5` | `CSS3` | `BEM` | `Sass` | `Git` | `Postman` | `Figma` | `Adobe Photoshop` | `Docker` | `Express` |  `C#` |  `Unity`  |
 
 
 <!--Here are some ideas to get you started:
@@ -15,3 +15,4 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ 
