@@ -1,7 +1,7 @@
 # Hello, I'm Daniel 👋
 
 ***⚡ My skills:***
-| `React` | `JavaScript` | `TypeScript` | `Node` | `OOP` | `SQL` | `PostgreSQL` | `HTML5` | `CSS3` | `BEM` | `Sass` | `Git` | `Postman` | `Figma` | `Adobe Photoshop`| `Docker` | `Express` | `C#` | `Unity` |
+| `React` | `JavaScript` | `TypeScript` | `Node` | `OOP` | `SQL` | `PostgreSQL` | `HTML5` | `CSS3` | `BEM` | `Sass` | `Git` | `Postman` | `Figma` | `Adobe Photoshop`| `Docker` | `Express`
 
 
 <!--Here are some ideas to get you started:
