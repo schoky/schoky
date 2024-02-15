@@ -15,8 +15,6 @@
 - ⚡ Fun fact: ...
 -->
  
-<h2 align="left" id="debabin-stack">🔥 Tech stack</h2>
-
 > General
 
 <table width='100%'>
@@ -223,9 +221,12 @@
         <img src="https://brandeps.com/icon-download/S/Sass-icon-vector-04.svg" width="36" height="36" alt="Sass" />
       </a>
       <br>Sass
-</td>
+    </td>
    <td align="center" width="110" height="90">
       <a href="#debabin-stack">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="36" height="36" alt="Tailwind" />
+      </a>
+      <br>Tailwind
     </td>
   </tr> 
 </table>
